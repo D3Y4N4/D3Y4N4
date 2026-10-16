@@ -1,17 +1,31 @@
-<h1 align="center">Hi 👋, I'm Dev Kumar Singh</h1>
-<h3 align="center">A passionate B.Tech student, Linux enthusiast, and aspiring Software/UI Engineer</h3>
-
+<!-- Top Banner Image -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=D3Y4N4&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/D3Y4N4?label=Follow&style=flat-square&color=blueviolet" alt="Followers" />
+  <img src="./assets/top-banner.jpg" alt="Header Banner" width="100%" />
 </p>
 
----
+<br />
 
-### 💻 About Me
-- 🌱 I’m currently studying core Computer Science concepts at Lingaya's Vidyapeeth.
-- 🐧 My daily driver is **Arch Linux** powered by the **Hyprland** Wayland compositor and customized dotfiles.
-- ⚡ In my free time, I build terminal tools, full-stack web apps, and configure efficient developer environments using Neovim, Zsh, and Kitty.
+<!-- Intro Section with Astronaut Image on the Side -->
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h1>Hi 👋, I'm Dev Kumar Singh</h1>
+      <h3>A passionate B.Tech student, Linux enthusiast, and aspiring Software/UI Engineer</h3>
+      <p>
+        - 🌱 I’m currently studying core Computer Science concepts at Lingaya's Vidyapeeth.<br />
+        - 🐧 My daily driver is <b>Arch Linux</b> powered by <b>Hyprland</b>.<br />
+        - ⚡ I love terminal tools, dotfile customization, and building modern software.
+      </p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=D3Y4N4&style=flat-square&color=blueviolet" alt="Views" />
+        <img src="https://img.shields.io/github/followers/D3Y4N4?label=Follow&style=flat-square&color=blueviolet" alt="Followers" />
+      </p>
+    </td>
+    <td align="center" valign="middle" width="35%">
+      <img src="./assets/astro-removebg-preview.png" alt="Astronaut" width="220px" />[cite: 1]
+    </td>
+  </tr>
+</table>
 
 ---
 
