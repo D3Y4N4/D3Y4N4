@@ -12,7 +12,7 @@
       <h1>Hi 👋, I'm Dev Kumar Singh</h1>
       <h3>A passionate B.Tech student, Linux enthusiast, and aspiring Software/UI Engineer</h3>
       <p>
-        - 🌱 I’m currently studying core Computer Science concepts at Lingaya's Vidyapeeth.<br />
+        - 🌱 I’m currently studying core Computer Science concepts.<br />
         - 🐧 My daily driver is <b>Arch Linux</b> powered by <b>Hyprland</b>.<br />
         - ⚡ I love terminal tools, dotfile customization, and building modern software.
       </p>
@@ -21,8 +21,8 @@
         <img src="https://img.shields.io/github/followers/D3Y4N4?label=Follow&style=flat-square&color=blueviolet" alt="Followers" />
       </p>
     </td>
-    <td align="center" valign="middle" width="35%">
-      <img src="./assets/astro-removebg-preview.png" alt="Astronaut" width="220px" />[cite: 1]
+    <td align="center" valign="middle" width="40%">
+      <img src="./assets/astro-removebg-preview.png" alt="Astronaut" width="350px" />
     </td>
   </tr>
 </table>
